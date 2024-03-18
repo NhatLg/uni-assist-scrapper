@@ -32,7 +32,7 @@ request_url = 'https://ww2.uni-assist.de/portal/index.php?go=doz'  # link to the
 
 payload = {
     "login": "Luong",
-    "pass": "`Reg~2020!#",
+    "pass": "xxxxxx",
 }
 
 
